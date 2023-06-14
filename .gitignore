@@ -17,3 +17,5 @@ yarn-error.log
 /database
 /dump_dp
 /storage
+/config
+/app/Http
